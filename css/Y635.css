@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    font-family: monospace;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    font-size: 3em;
+}
+
+.version {
+    font-size: 1.8em;
+    text-align: center;
+    clear: left;
+}
+
+.typerom {
+    font-size: 1.5em;
+}
+
+.stockkk {
+    float: left;
+}
+
+footer {
+    text-decoration: none;
+    color: white;
+    font-variant: small-caps;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.footlink {
+    color: white;
+    width: 75%;
+    position: fixed;
+    left: 50%;
+    margin-left: -37.5%;
+    bottom: 0;
+}

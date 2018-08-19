@@ -1,0 +1,24 @@
+body{
+    background-color: black; 
+    text-align: center;
+    margin: 0 auto;
+
+}
+.bars{
+    color: gold; 
+}
+p{
+    font-size: 1.5em; 
+    font-family:monospace, Courier New, Courier; 
+}
+a{
+    color: white; 
+    text-decoration: none
+}
+.mainlinks
+{
+    position: fixed;
+    top: 40%;
+    left: 30%;
+    right: 30%;
+}

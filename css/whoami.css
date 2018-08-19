@@ -1,0 +1,27 @@
+.texto{
+    position: fixed;
+    top: 40%;
+    left: 20%;
+    right: 20%;
+    font-size: 1.2em;
+    
+}
+body{
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: monospace, Courier New, Courier;
+    margin: 0 auto;
+
+}
+.bottom {
+    position: fixed;
+    bottom: 0;
+    left: 45%;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    font-variant: small-caps;
+    font-size: 1.5em;
+}
